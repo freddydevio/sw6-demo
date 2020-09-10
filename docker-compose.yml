@@ -16,4 +16,4 @@ services:
   sw-db:
     image: mysql:5.7
     environment:
-      MYSQL_ROOT_PASSWORD: test123
+      MYSQL_ROOT_PASSWORD: password
